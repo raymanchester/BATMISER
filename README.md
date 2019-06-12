@@ -6,8 +6,6 @@ No dev fee
 
 Unlimited usage
 
-Donate to IOWASKA and be mentioned in the donors list on the following release
-
 1. Install Brave Browser and Make Default in Windows 10
 2. Enable Brave Rewards
 3. Select 5 Ads Per Hour
