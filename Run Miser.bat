@@ -13,7 +13,9 @@ ECHO 3. Select 5 Ads Per Hour
 ECHO 4. Back Up BAT Wallet (In Brave)
 ECHO 5. Untick Auto-Contribute In Brave Settings
 ECHO 6. Close Brave Browser
-ECHO 7. Double click "Run Miser"
+ECHO 7. Download BATMISER GitHub Repo as .ZIP: https://github.com/IOWASKA/BATMISER/
+ECHO 8. Extract into new folder
+ECHO 9. Double click Run Miser.bat
 ECHO ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
