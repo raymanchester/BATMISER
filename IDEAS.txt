@@ -1,4 +1,4 @@
-Auto Empty Unlimited wallets, on unlimted instances of brave. (WEB BOT AUTOMATOR IN VISUAL STUDIO)
+Auto Empty Unlimited wallets to BAT wallet, on unlimted instances of brave. (WEB BOT AUTOMATOR IN VISUAL STUDIO)
 
 the idea is to get folk using this on VMs, Mining Rigs etc, large amounts of instances of windows 10
 
