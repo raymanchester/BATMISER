@@ -16,6 +16,5 @@ Instructions:
 7. Download BATMISER GitHub Repo as .ZIP: https://github.com/IOWASKA/BATMISER/
 8. Extract into new folder
 9. Double click Run Miser.bat
-10. Follow on Screen Instructions when web browser has loaded
 
 
