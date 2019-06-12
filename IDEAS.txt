@@ -4,30 +4,15 @@ the idea is to get folk using this on VMs, Mining Rigs etc, large amounts of ins
 
 Get round the need to hover the mouse etc, can this be dpone in a self opperating way?
 
-have a more solid approach to making it robust
+have a more solid approach to making it robust, make a sleeker app, maybe ran as EXE
 
-research more about Braves anti fake bots, algo and AI.
+sit with some programmers to simplfy the code base
 
-research amount of ads brave will choose to publish
-
-find a way to have brave open in its own environment subject to manipulation outwith system process. currently only good for mining rigs which dont usually need a lot of actual human use. If your pc is always on and you are using BATMISER will be a cunt towards productivity. This needs to have its own little way of doing the tasks originally designed in the .bat file. possible usage of visual basic to create a brave bot???
-
-Make an advertising space on the .html file and come up with a pricing strategy.
-
-sit with some actual programmers to simplfy the code base
-
-go public on github etc
-
-make a place mouse here image
+make a place mouse here image until this has been sorted
 
 add info in the html explaining whats happening
 
 make the html page look more pro
-
-explain its a mining companion in html
-
-make advertsing look desirerable - maybe as ravencoin asset... yess good, guide on this
-sell the ravencoin asset
 
 
 
