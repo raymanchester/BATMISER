@@ -4,11 +4,9 @@ the idea is to get folk using this on VMs, Mining Rigs etc, large amounts of ins
 
 Get round the need to hover the mouse etc, can this be dpone in a self opperating way?
 
-have a more solid approach to making it robust, make a sleeker app, maybe ran as EXE
+make a sleeker app, maybe ran as EXE
 
-sit with some programmers to simplfy the code base
-
-make a place mouse here image until this has been sorted
+simplfy the code base
 
 add info in the html explaining whats happening
 
