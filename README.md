@@ -17,4 +17,4 @@ Instructions:
 8. Extract into new folder
 9. Double click Run Miser.bat
 
-
+Donate BAT to Iowaska: 0x5000ABf72C52F0C70f2Df0E0498e61B67ec3F6fF !
