@@ -16,6 +16,8 @@ ECHO 7. Download BATMISER GitHub Repo as .ZIP: https://github.com/IOWASKA/BATMIS
 ECHO 8. Extract into new folder
 ECHO 9. Double click Run Miser.bat
 ECHO ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ECHO ! Donate BAT to Iowaska: 0x5000ABf72C52F0C70f2Df0E0498e61B67ec3F6fF !
+ECHO ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
@@ -98,6 +100,6 @@ GOTO loop1
 
 
 
-
+ 
 
 
