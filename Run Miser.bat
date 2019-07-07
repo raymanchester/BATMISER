@@ -2,7 +2,7 @@
 TITLE BATMISER 0.1 BETA [IOWASKA]
 
 
-COLOR 06
+COLOR 0e
 ECHO +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ECHO                               BATMISER 0.1 BETA                  
 ECHO +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -24,11 +24,70 @@ ECHO +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
-
 :loop1
 
 ECHO Opening coinmarketcap.com - Please leave your mouse hovering over Brave
 START brave.exe "https://www.coinmarketcap.com/currencies/basic-attention-token"
+TIMEOUT 50 /NOBREAK
+ECHO Preparing to Scroll down now
+TIMEOUT 4 /NOBREAK
+CALL mouse.bat scrollDown 10000
+ECHO Scroll Down Complete
+ECHO Preparing to wiggle your mouse
+TIMEOUT 4 /nobreak
+call mouse moveBy 10x11
+ECHO Mouse wiggle complete
+ECHO Preparing to wiggle your mouse
+TIMEOUT 4 /nobreak
+call mouse moveBy -10x-11
+ECHO Mouse wiggle complete
+ECHO Preparing to scroll up
+TIMEOUT 4 /NOBREAK
+CALL mouse.bat scrollUp 10000
+ECHO Scroll Up Complete
+
+ECHO Opening https://www.tesla.com/ - Please leave your mouse hovering over Brave
+START brave.exe "https://www.tesla.com/"
+TIMEOUT 50 /NOBREAK
+ECHO Preparing to Scroll down now
+TIMEOUT 4 /NOBREAK
+CALL mouse.bat scrollDown 10000
+ECHO Scroll Down Complete
+ECHO Preparing to wiggle your mouse
+TIMEOUT 4 /nobreak
+call mouse moveBy 10x11
+ECHO Mouse wiggle complete
+ECHO Preparing to wiggle your mouse
+TIMEOUT 4 /nobreak
+call mouse moveBy -10x-11
+ECHO Mouse wiggle complete
+ECHO Preparing to scroll up
+TIMEOUT 4 /NOBREAK
+CALL mouse.bat scrollUp 10000
+ECHO Scroll Up Complete
+
+ECHO Opening https://www.spacex.com - Please leave your mouse hovering over Brave
+START brave.exe "https://www.spacex.com"
+TIMEOUT 50 /NOBREAK
+ECHO Preparing to Scroll down now
+TIMEOUT 4 /NOBREAK
+CALL mouse.bat scrollDown 10000
+ECHO Scroll Down Complete
+ECHO Preparing to wiggle your mouse
+TIMEOUT 4 /nobreak
+call mouse moveBy 10x11
+ECHO Mouse wiggle complete
+ECHO Preparing to wiggle your mouse
+TIMEOUT 4 /nobreak
+call mouse moveBy -10x-11
+ECHO Mouse wiggle complete
+ECHO Preparing to scroll up
+TIMEOUT 4 /NOBREAK
+CALL mouse.bat scrollUp 10000
+ECHO Scroll Up Complete
+
+ECHO Opening https://brave.com - Please leave your mouse hovering over Brave
+START brave.exe "https://brave.com/"
 TIMEOUT 50 /NOBREAK
 ECHO Preparing to Scroll down now
 TIMEOUT 4 /NOBREAK
@@ -69,6 +128,26 @@ ECHO Scroll Up Complete
 
 ECHO Opening https://www.ebay.com - Please leave your mouse hovering over Brave
 START brave.exe "https://www.ebay.com/"
+TIMEOUT 50 /NOBREAK
+ECHO Preparing to Scroll down now
+TIMEOUT 4 /NOBREAK
+CALL mouse.bat scrollDown 10000
+ECHO Scroll Down Complete
+ECHO Preparing to wiggle your mouse
+TIMEOUT 4 /nobreak
+call mouse moveBy 10x11
+ECHO Mouse wiggle complete
+ECHO Preparing to wiggle your mouse
+TIMEOUT 4 /nobreak
+call mouse moveBy -10x-11
+ECHO Mouse wiggle complete
+ECHO Preparing to scroll up
+TIMEOUT 4 /NOBREAK
+CALL mouse.bat scrollUp 10000
+ECHO Scroll Up Complete
+
+ECHO Opening https://www.amazon.com - Please leave your mouse hovering over Brave
+START brave.exe "https://www.amazon.com/"
 TIMEOUT 50 /NOBREAK
 ECHO Preparing to Scroll down now
 TIMEOUT 4 /NOBREAK
